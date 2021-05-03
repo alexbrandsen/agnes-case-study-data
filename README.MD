@@ -38,6 +38,8 @@ The last 7 columns represent each query, and if the document occurs in the resul
 The definitions of 0, 1 and 2 in the 'relevant' column are defined as follows:
 
 0: completely irrelevant (no Early Medieval cremation)
+
 1: moderately relevant (reference to other file, or either the cremation or the date is not certain)
+
 2: very relevant (clearly an Early Medieval cremation)
 
